@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:52:46	177/177	U--M--	404	error ('Not%20Found')	text/html	date:Mon,%2030%20Dec%202019%2005:30:55%20GMT	https://coderthemes.com/adminox/default/index.html	C:/Users/User2/Desktop/admin/coderthemes.com/adminox/default/index.html	(from )
+11:52:47	177/177	---M--	404	error ('Not%20Found')	text/html	date:Mon,%2030%20Dec%202019%2005:30:55%20GMT	https://coderthemes.com/robots.txt		(from )
